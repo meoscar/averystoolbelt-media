@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Avery's Story Time</title>
+  <link>https://meoscar.github.io/averystoolbelt</link>
+  <atom:link href="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <copyright>© 2026 Avery's Toolbelt</copyright>
+  <description>Calm, narrated stories about how things work, for children aged 3 to 6 to listen to with a grown-up. Avery is five and lives in Minnesota with her dad, her mom, her little brother Gus and Spec the puppy. In each story she wonders about something real - a soft tire, a cold floor, a pot that boils over, a word in a book - and finds out how it works, one try at a time. A storyteller reads it slowly, and the family speak in their own voices. Good for a car ride, a quiet afternoon or bedtime.</description>
+  <itunes:summary>Calm, narrated stories about how things work, for children aged 3 to 6 to listen to with a grown-up. Avery is five and lives in Minnesota with her dad, her mom, her little brother Gus and Spec the puppy. In each story she wonders about something real - a soft tire, a cold floor, a pot that boils over, a word in a book - and finds out how it works, one try at a time. A storyteller reads it slowly, and the family speak in their own voices. Good for a car ride, a quiet afternoon or bedtime.</itunes:summary>
+  <itunes:author>Avery's Toolbelt</itunes:author>
+  <itunes:image href="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/cover.jpg"/>
+  <image><url>https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/cover.jpg</url><title>Avery's Story Time</title><link>https://meoscar.github.io/averystoolbelt</link></image>
+  <itunes:category text="Kids &amp; Family"><itunes:category text="Stories for Kids"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Tue, 13 Oct 2026 07:29:34 GMT</lastBuildDate>
+  <item>
+    <title>Out Loud | Reading Aloud: Where Do You Stop?</title>
+    <description>Gus has a sentence. It lives in his cat book, and after three weeks of bedtime he knows it by heart - but he says it as one long word, faster every time: thecatsatonthematandwouldnotmove. Nobody can understand it. Not even him.
+
+Watch it: https://youtu.be/xcO_hEN9d38</description>
+    <itunes:summary>Gus has a sentence. It lives in his cat book, and after three weeks of bedtime he knows it by heart - but he says it as one long word, faster every time: thecatsatonthematandwouldnotmove. Nobody can understand it. Not even him.
+
+Watch it: https://youtu.be/xcO_hEN9d38</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0045-out-loud.mp3" length="9487151" type="audio/mpeg"/>
+    <guid isPermaLink="false">0045-out-loud</guid>
+    <pubDate>Tue, 13 Oct 2026 07:28:22 GMT</pubDate>
+    <itunes:duration>00:13:11</itunes:duration>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Wrong Pot | Why Does Pasta Water Boil Over?</title>
+    <description>The pasta water has climbed out of the pot three times this week, and Dad has cleaned the stove three times. Then Avery says something that stops him: plain water never does that. She knows, because she has watched it, lots of times.
+
+Watch it: https://youtu.be/suK01-7JYOs</description>
+    <itunes:summary>The pasta water has climbed out of the pot three times this week, and Dad has cleaned the stove three times. Then Avery says something that stops him: plain water never does that. She knows, because she has watched it, lots of times.
+
+Watch it: https://youtu.be/suK01-7JYOs</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0033-the-wrong-pot.mp3" length="11489910" type="audio/mpeg"/>
+    <guid isPermaLink="false">0033-the-wrong-pot</guid>
+    <pubDate>Mon, 12 Oct 2026 07:47:48 GMT</pubDate>
+    <itunes:duration>00:15:57</itunes:duration>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Somebody Smells Gas | What If You Smell Gas?</title>
+    <description>Gus has seen five things this month - a wolf in the yard, a bear behind the shed, a man at the window who was a coat - and Avery has written every one of them down. So on Tuesday, when Gus says something in the kitchen smells bad, like bad eggs, Avery wants to sniff again and be sure before she says anything.
+
+Watch it: https://youtu.be/6w2fzvfZ70E</description>
+    <itunes:summary>Gus has seen five things this month - a wolf in the yard, a bear behind the shed, a man at the window who was a coat - and Avery has written every one of them down. So on Tuesday, when Gus says something in the kitchen smells bad, like bad eggs, Avery wants to sniff again and be sure before she says anything.
+
+Watch it: https://youtu.be/6w2fzvfZ70E</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0021-somebody-smells-gas.mp3" length="8461793" type="audio/mpeg"/>
+    <guid isPermaLink="false">0021-somebody-smells-gas</guid>
+    <pubDate>Sun, 11 Oct 2026 07:32:50 GMT</pubDate>
+    <itunes:duration>00:11:45</itunes:duration>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Map in the Front | How Does a Map Work?</title>
+    <description>Avery's book has a map at the front, and she always skips it to get to the words. This time Mom stops with her hand flat on it. There's the wood, the river, the town - and a mountain in the far corner. Everywhere the story goes is on there. Which means they're going to have to go to the mountain, and Avery isn't sure she wants to know that.
+
+Watch it: https://youtu.be/IL9I2hFW7FE</description>
+    <itunes:summary>Avery's book has a map at the front, and she always skips it to get to the words. This time Mom stops with her hand flat on it. There's the wood, the river, the town - and a mountain in the far corner. Everywhere the story goes is on there. Which means they're going to have to go to the mountain, and Avery isn't sure she wants to know that.
+
+Watch it: https://youtu.be/IL9I2hFW7FE</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0044-the-map-in-the-front.mp3" length="9326027" type="audio/mpeg"/>
+    <guid isPermaLink="false">0044-the-map-in-the-front</guid>
+    <pubDate>Tue, 13 Oct 2026 07:27:12 GMT</pubDate>
+    <itunes:duration>00:12:57</itunes:duration>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Sunday Dumplings | Why Do Dumplings Burst?</title>
+    <description>On Sunday, Kai's family comes over to make dumplings - trays everywhere, a bowl the size of the sink, and Kai showing Avery the fold. Avery wants to learn the right fold. But Kai's mom folds one way and his Ah-ma folds another, and both work.
+
+Watch it: https://youtu.be/VGsYvN91yMU</description>
+    <itunes:summary>On Sunday, Kai's family comes over to make dumplings - trays everywhere, a bowl the size of the sink, and Kai showing Avery the fold. Avery wants to learn the right fold. But Kai's mom folds one way and his Ah-ma folds another, and both work.
+
+Watch it: https://youtu.be/VGsYvN91yMU</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0032-sunday-dumplings.mp3" length="17399116" type="audio/mpeg"/>
+    <guid isPermaLink="false">0032-sunday-dumplings</guid>
+    <pubDate>Mon, 12 Oct 2026 07:46:50 GMT</pubDate>
+    <itunes:duration>00:24:10</itunes:duration>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Full Basket | Why Won't the Dryer Dry?</title>
+    <description>The laundry basket has been full for a week - full of clean clothes that are still a bit damp. Avery decides the dryer is broken. But it still goes round, and it still gets hot. And Mom realizes she has been running every load twice for two weeks without noticing.
+
+Watch it: https://youtu.be/eNwsLk99598</description>
+    <itunes:summary>The laundry basket has been full for a week - full of clean clothes that are still a bit damp. Avery decides the dryer is broken. But it still goes round, and it still gets hot. And Mom realizes she has been running every load twice for two weeks without noticing.
+
+Watch it: https://youtu.be/eNwsLk99598</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0020-the-full-basket.mp3" length="8629497" type="audio/mpeg"/>
+    <guid isPermaLink="false">0020-the-full-basket</guid>
+    <pubDate>Sun, 11 Oct 2026 07:32:00 GMT</pubDate>
+    <itunes:duration>00:11:59</itunes:duration>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Puddle | What's That Puddle Under the Car?</title>
+    <description>It is April, the snow is melting off everything, and there is a puddle under Betsy. Spec the puppy is walking straight at it, nose down. Avery doesn't know what the puddle is - so she gets the dog away and shouts for Dad.
+
+Watch it: https://youtu.be/PhzQchx8ZlQ</description>
+    <itunes:summary>It is April, the snow is melting off everything, and there is a puddle under Betsy. Spec the puppy is walking straight at it, nose down. Avery doesn't know what the puddle is - so she gets the dog away and shouts for Dad.
+
+Watch it: https://youtu.be/PhzQchx8ZlQ</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0012-the-puddle.mp3" length="9121648" type="audio/mpeg"/>
+    <guid isPermaLink="false">0012-the-puddle</guid>
+    <pubDate>Sun, 11 Oct 2026 07:27:07 GMT</pubDate>
+    <itunes:duration>00:12:40</itunes:duration>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Read It Again | Why Read the Same Book Again?</title>
+    <description>It is night eight of the boat book. It is not a very good book, and Avery knows it, and it makes no difference whatsoever. Mom is sick of it, and says so - kindly, but she says it. Avery is stung, because the book is hers. Before Gus's turn ends, he reads his forty-word tractor book to Spec the puppy, very fast and very loud, and says "Again."
+
+Watch it: https://youtu.be/EdoUGGCdBww</description>
+    <itunes:summary>It is night eight of the boat book. It is not a very good book, and Avery knows it, and it makes no difference whatsoever. Mom is sick of it, and says so - kindly, but she says it. Avery is stung, because the book is hers. Before Gus's turn ends, he reads his forty-word tractor book to Spec the puppy, very fast and very loud, and says "Again."
+
+Watch it: https://youtu.be/EdoUGGCdBww</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0043-read-it-again.mp3" length="8260860" type="audio/mpeg"/>
+    <guid isPermaLink="false">0043-read-it-again</guid>
+    <pubDate>Mon, 12 Oct 2026 07:49:40 GMT</pubDate>
+    <itunes:duration>00:11:28</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Too Much Salt | Can You Take Salt Out of Soup?</title>
+    <description>Mom started the soup at four o'clock. When the doorbell rings, Avery decides it smells like it needs more salt - so she puts some in. And then a bit more. Nobody finds out for ten minutes.
+
+Watch it: https://youtu.be/5u-NjXQ-tmo</description>
+    <itunes:summary>Mom started the soup at four o'clock. When the doorbell rings, Avery decides it smells like it needs more salt - so she puts some in. And then a bit more. Nobody finds out for ten minutes.
+
+Watch it: https://youtu.be/5u-NjXQ-tmo</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0031-too-much-salt.mp3" length="11356998" type="audio/mpeg"/>
+    <guid isPermaLink="false">0031-too-much-salt</guid>
+    <pubDate>Mon, 12 Oct 2026 07:45:30 GMT</pubDate>
+    <itunes:duration>00:15:46</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Draft | Why Is the Floor So Cold?</title>
+    <description>It is November in Minnesota, and there is a cold stripe on Avery's bedroom floor. She gets down on her stomach with the flashlight, finds a gap by the bookshelf, and blocks it with a rolled-up towel. The floor is exactly as cold the next morning.
+
+Watch it: https://youtu.be/dlVZu3lwDM4</description>
+    <itunes:summary>It is November in Minnesota, and there is a cold stripe on Avery's bedroom floor. She gets down on her stomach with the flashlight, finds a gap by the bookshelf, and blocks it with a rolled-up towel. The floor is exactly as cold the next morning.
+
+Watch it: https://youtu.be/dlVZu3lwDM4</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0019-the-draft.mp3" length="9593097" type="audio/mpeg"/>
+    <guid isPermaLink="false">0019-the-draft</guid>
+    <pubDate>Sun, 11 Oct 2026 07:31:17 GMT</pubDate>
+    <itunes:duration>00:13:19</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Noise | What Is That Ticking in the Car?</title>
+    <description>There is a tiny tick somewhere in Betsy, and Avery is the only one who can hear it. Dad turns the radio off and really listens - twice - and hears nothing. Gus, who does not want to be left out, can suddenly hear it everywhere: in the kitchen, in the bath, even next to a car that has been switched off for two hours.
+
+Watch it: https://youtu.be/dfwJ1vj6WWo</description>
+    <itunes:summary>There is a tiny tick somewhere in Betsy, and Avery is the only one who can hear it. Dad turns the radio off and really listens - twice - and hears nothing. Gus, who does not want to be left out, can suddenly hear it everywhere: in the kitchen, in the bath, even next to a car that has been switched off for two hours.
+
+Watch it: https://youtu.be/dfwJ1vj6WWo</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0008-the-noise.mp3" length="10610625" type="audio/mpeg"/>
+    <guid isPermaLink="false">0008-the-noise</guid>
+    <pubDate>Tue, 13 Oct 2026 07:29:34 GMT</pubDate>
+    <itunes:duration>00:14:44</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Squishy | How Do You Find a Soft Tire?</title>
+    <description>Mom's car is at the shop, so Betsy, the family's 1937 car, does the school run for the first time. From her booster seat behind Dad, Avery feels something - a little pull, a little lean - and nobody else can feel it at all.
+
+Watch it: https://youtu.be/UkF7AiUO6xs</description>
+    <itunes:summary>Mom's car is at the shop, so Betsy, the family's 1937 car, does the school run for the first time. From her booster seat behind Dad, Avery feels something - a little pull, a little lean - and nobody else can feel it at all.
+
+Watch it: https://youtu.be/UkF7AiUO6xs</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0007-squishy.mp3" length="9904059" type="audio/mpeg"/>
+    <guid isPermaLink="false">0007-squishy</guid>
+    <pubDate>Sat, 10 Oct 2026 07:30:56 GMT</pubDate>
+    <itunes:duration>00:13:45</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Belling the Cat | Who Will Bell the Cat?</title>
+    <description>Every morning the recycling is all over the kitchen floor, and nobody ever hears Spec the puppy do it. That night Mom reads the old fable about the mice who decide to hang a bell on the cat - until somebody asks who is going to do it, and nobody says anything. Avery is outraged. They had a plan! They're cowards!
+
+Watch it: https://youtu.be/GL5ie-93PxI</description>
+    <itunes:summary>Every morning the recycling is all over the kitchen floor, and nobody ever hears Spec the puppy do it. That night Mom reads the old fable about the mice who decide to hang a bell on the cat - until somebody asks who is going to do it, and nobody says anything. Avery is outraged. They had a plan! They're cowards!
+
+Watch it: https://youtu.be/GL5ie-93PxI</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0041-belling-the-cat.mp3" length="9034184" type="audio/mpeg"/>
+    <guid isPermaLink="false">0041-belling-the-cat</guid>
+    <pubDate>Mon, 12 Oct 2026 07:48:43 GMT</pubDate>
+    <itunes:duration>00:12:33</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Low and Slow | Why Do Eggs Go Hard and Wet?</title>
+    <description>Avery wants breakfast faster, so she wants the dial turned up. More heat, faster food - what could go wrong? Mom doesn't argue. She puts two pans on the stove, one on low and one on high, with the same eggs in both, and Avery counts out loud from her stool.
+
+Watch it: https://youtu.be/I08pHCTT8-Q</description>
+    <itunes:summary>Avery wants breakfast faster, so she wants the dial turned up. More heat, faster food - what could go wrong? Mom doesn't argue. She puts two pans on the stove, one on low and one on high, with the same eggs in both, and Avery counts out loud from her stool.
+
+Watch it: https://youtu.be/I08pHCTT8-Q</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0029-low-and-slow.mp3" length="13078255" type="audio/mpeg"/>
+    <guid isPermaLink="false">0029-low-and-slow</guid>
+    <pubDate>Sun, 11 Oct 2026 08:43:28 GMT</pubDate>
+    <itunes:duration>00:18:10</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Nine Percent | Does Water Grow When It Freezes?</title>
+    <description>The house has a list for October, and one line says to empty the outside faucets. Avery says that's silly - nothing comes out of them, so they're already empty. Mom says the faucet is empty, but the pipe isn't. And water in a pipe gets bigger when it freezes.
+
+Watch it: https://youtu.be/qGcKSkedYlc</description>
+    <itunes:summary>The house has a list for October, and one line says to empty the outside faucets. Avery says that's silly - nothing comes out of them, so they're already empty. Mom says the faucet is empty, but the pipe isn't. And water in a pipe gets bigger when it freezes.
+
+Watch it: https://youtu.be/qGcKSkedYlc</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0017-nine-percent.mp3" length="9137949" type="audio/mpeg"/>
+    <guid isPermaLink="false">0017-nine-percent</guid>
+    <pubDate>Sun, 11 Oct 2026 07:29:08 GMT</pubDate>
+    <itunes:duration>00:12:41</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The List | Why Won't the Headlight Come On?</title>
+    <description>Saturday is the car show, and Avery has decided she is the one who says Betsy is ready. So she makes a list - a long one - and every day after school she checks another line with Dad in the garage. Her little brother Gus only wants the pencil, and every day he draws one dog at the bottom.
+
+Watch it: https://youtu.be/bg-39TW8npI</description>
+    <itunes:summary>Saturday is the car show, and Avery has decided she is the one who says Betsy is ready. So she makes a list - a long one - and every day after school she checks another line with Dad in the garage. Her little brother Gus only wants the pencil, and every day he draws one dog at the bottom.
+
+Watch it: https://youtu.be/bg-39TW8npI</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0001-the-list.mp3" length="12882024" type="audio/mpeg"/>
+    <guid isPermaLink="false">0001-the-list</guid>
+    <pubDate>Sat, 10 Oct 2026 07:33:19 GMT</pubDate>
+    <itunes:duration>00:17:53</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Cold Morning | Why Is the Cold Car So Slow?</title>
+    <description>It is fifteen below in Minnesota, and Betsy, the family's 1937 car, does not want to wake up. Dad is the one who starts her. Avery's job is counting - and she is not sure counting is a real job.
+
+Watch it: https://youtu.be/UIwrczeDyJk</description>
+    <itunes:summary>It is fifteen below in Minnesota, and Betsy, the family's 1937 car, does not want to wake up. Dad is the one who starts her. Avery's job is counting - and she is not sure counting is a real job.
+
+Watch it: https://youtu.be/UIwrczeDyJk</itunes:summary>
+    <enclosure url="https://raw.githubusercontent.com/meoscar/averystoolbelt-media/main/podcast/0005-cold-morning.mp3" length="12104623" type="audio/mpeg"/>
+    <guid isPermaLink="false">0005-cold-morning</guid>
+    <pubDate>Sat, 10 Oct 2026 07:35:06 GMT</pubDate>
+    <itunes:duration>00:16:49</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
